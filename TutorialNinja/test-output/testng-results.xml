@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-06T17:26:42Z" name="Default suite" finished-at="2023-06-06T17:26:52Z" duration-ms="9283">
+    <groups>
+    </groups>
+    <test started-at="2023-06-06T17:26:42Z" name="Default test" finished-at="2023-06-06T17:26:52Z" duration-ms="9283">
+      <class name="com.tutorialninja.endtoend.Logout">
+        <test-method is-config="true" signature="configBeforeMethod()[pri:0, instance:com.tutorialninja.endtoend.Logout@5b218417]" started-at="2023-06-06T22:56:42Z" name="configBeforeMethod" finished-at="2023-06-06T22:56:51Z" duration-ms="8445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMethod -->
+        <test-method signature="VerifyLogoutOptionWithoutLoggingIn()[pri:0, instance:com.tutorialninja.endtoend.Logout@5b218417]" started-at="2023-06-06T22:56:51Z" name="VerifyLogoutOptionWithoutLoggingIn" finished-at="2023-06-06T22:56:51Z" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogoutOptionWithoutLoggingIn -->
+        <test-method is-config="true" signature="configAfterMethod()[pri:0, instance:com.tutorialninja.endtoend.Logout@5b218417]" started-at="2023-06-06T22:56:51Z" name="configAfterMethod" finished-at="2023-06-06T22:56:52Z" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+      </class> <!-- com.tutorialninja.endtoend.Logout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
